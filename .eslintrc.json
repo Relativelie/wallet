@@ -24,5 +24,10 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "import/prefer-default-export": "off",
+        "@typescript-eslint/indent": "off",
+        "react/function-component-definition": "off",
+        "react/jsx-indent": "off",
+        "react/react-in-jsx-scope": "off"
     }
 }
